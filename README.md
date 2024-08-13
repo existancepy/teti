@@ -1,8 +1,8 @@
-# Teti README
+# TAURI BRANCH README
 
-Finally a readme  
-Hosted on github pages [here](https://titanplayz100.github.io/teti/)  
-You can literally just open up [index.html](index.html) in a browser as well to play 
+You can build an exe with rust using tauri
+
+Update the source code and assets with a newer version if needed (this branch probably wont be maintained)
 
 ## Build With Tauri
 Build this yourself or download the installer from the latest release
@@ -14,4 +14,3 @@ Build this yourself or download the installer from the latest release
 - `npm run build` or run build.bat
 
 Creates exe at **/target/release/teti.exe**  
-You can delete **/src-temp**
